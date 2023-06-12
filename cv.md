@@ -6,45 +6,56 @@
 - **Teléfono:** 0987025868
 
 ## Experiencia laboral
-### Cajera, Ferreteria Angamarca (2021 - Presente)
-- Descripción de las responsabilidades y logros en este puesto.
+### Cajera, FERRETERIA MULTI-HERRAMIENTAS (2021 - Presente)
+- Atención al cliente.
+- Control de inventario. 
+- Ventas y Reportes. 
+- Manejo de cheques. 
+- Pago a proveedores. .
 
-
-### Contadora Auxiliar, Empresa CuencaCONT (2017 - 2019)
-- Descripción de las responsabilidades y logros en este puesto.
-
-### Ingeniero de software, Empresa ABC (2015 - 2017)
-- Vendedora Ferrteria Disensa El Tambo.
+### Contadora Auxiliar, Empresa ACT-CUENCA (2017 - 2019)
+- Atención al cliente. 
+- Manejo del sistema contable.
+- Elaboración de formularios de SRI. 
+- Registro de facturas.
+- Manejo de Excel. .
+### Practicas Preprofesionales, (universidad católica de Cuenca) 
+- Área administrativa y financiero.
 
 ## Educación
-### Licenciatura en Contabilidad y Auditoria, Universidad Catolica de Cuenca (2015 - 2021)
-- Descripción de los cursos y logros académicos relevantes.
+### Licenciatura en Contabilidad y Auditoria, Universidad Catolica de Cuenca (2015 - 2021).
+### Bachiller en Aplicaciones informaticas, Unidadd Educativa El Tambo (2009 - 2015).
+### Educación Básica. Escuela Mariana de Jesús.(2003 - 2009).
+- .
 
 ## Habilidades técnicas
-- Lenguajes de programación: C++, Java, Python
-- Frameworks: React, Angular
-- Bases de datos: SQL, PostgreSQL
-- Otros: Git, Docker, AWS
+- Trabajo en equipo.
+- Manejo de herramientas tecnológicas.
+- Servios Contables, tributarios y laborables.
+- Otros: Git, excel, 
+
 
 ## Certificados
-### Certificado de Desarrollo Web, Plataforma XYZ (2019)
-- Descripción del certificado y las habilidades adquiridas.
+### Certificado de internacional de negocio,innovaion y comercio, corporacion san francisco (2016)
+- taller internacional de negocios, innovación y comercio 
 
-### Certificado de Fundamentos de Ciencia de Datos, Universidad ABC (2018)
-- Descripción del certificado y las habilidades adquiridas.
 
-## Proyectos destacados
-### Sistema de gestión de inventario (2020)
-- Descripción del proyecto y las tecnologías utilizadas.
 
-### Aplicación móvil de venta en línea (2019)
-- Descripción del proyecto y los resultados alcanzados.
+### Certificado de I congreso internacional de contabilidad y auditoria , centro de desarrollo ecuador  (2018)
+- 
+
+### Certificado de II congreso internacional de contabilidad y auditoria , centro de desarrollo ecuador  (2018)
+- pensamiento de la informacion contable,contabilidad y responsabilidad social, gestion de costos e inversion y evaluacion de activos.
+permitio profundizar nuestros conocimientos ,desarrollar habilidades y crecer profecionalmente/
+
+### certificado III congreso internacional de contabilidad y auditoria. 
+- intercambio sobre las practicas, metodologicas conocimientos e investigaciones en ambito de las ciencias contables.
 
 ## Idiomas
-- Español (nativo)
-- Inglés (medio)
+- Español (medio)
 - Kichwa (nativo)
+- Inglés (Basico )
 
 ## Referencias
-Disponibles a solicitud.
+Mgs .
 
