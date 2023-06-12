@@ -26,13 +26,12 @@
 ### Licenciatura en Contabilidad y Auditoria, Universidad Catolica de Cuenca (2015 - 2021).
 ### Bachiller en Aplicaciones informaticas, Unidadd Educativa El Tambo (2009 - 2015).
 ### Educación Básica. Escuela Mariana de Jesús.(2003 - 2009).
-- .
 
 ## Habilidades técnicas
 - Trabajo en equipo.
 - Manejo de herramientas tecnológicas.
 - Servios Contables, tributarios y laborables.
-- Otros: Git, excel, 
+- Otros: Git, excel, ERP. CRM.
 
 
 ## Certificados
